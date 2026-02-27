@@ -1,9 +1,7 @@
 #hide-settings: 1
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
-
-vless://f171bec7-9793-4a58-8402-d566b3392b93@89.208.222.100:4443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=85kRzmiv4ofggv0f50hMTgDWSWKsg--UYZjkHA8ohgs&sid=09&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://9ed664eb-6076-4406-a4e5-cb4fd6775214@84.201.155.146:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=CtX82DkTEpR5mNMPTpCHf2tkodeEDTjarulWEUUh4gY#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://9ed664eb-6076-4406-a4e5-cb4fd6775214@51.250.31.236:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://60b44de1-fe6b-41a3-9dc4-f42cdd3dd290@51.250.27.65:4352?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=XQQOfslBn-p7_2fp83KHhO7eqkMfl3lV0iuIHcajWnE#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://00b1e68d-ebe1-4a26-8efd-72b4da9d2262@217.16.23.136:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://f27f5ad9-c8e7-07d0-a43b-4fce5aabe734@109.120.189.160:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@37.139.33.223:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@89.208.228.139:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@109.120.189.145:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
