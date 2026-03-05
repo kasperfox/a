@@ -1,7 +1,10 @@
 #hide-settings: 1
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
-vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.103.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://f27f5ad9-c8e7-07d0-a43b-4fce5aabe734@109.120.188.145:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-vless://42f74a8c-f2cd-07d0-b5a9-78d93d0ca69b@5.188.140.209:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-vless://01638edd-ddd2-07d0-b437-48761495d07e@146.185.240.88:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.145:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+
+vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@5.188.140.37:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+
+vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.31.236:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+
+vless://6e9d5658-2ecf-4176-a9f4-ae86229a1152@84.201.172.12:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
