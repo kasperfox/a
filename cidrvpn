@@ -1,10 +1,7 @@
 #hide-settings: 1
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
-vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.145:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-
-vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@5.188.140.37:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-
-vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.31.236:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=arthemis-recuperation.com&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-
-vless://6e9d5658-2ecf-4176-a9f4-ae86229a1152@84.201.172.12:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+vless://fba7dc74-ed99-07d0-8b5f-a822f254475f@109.120.189.87:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+vless://0a8803e0-b096-473e-b65d-6f3faccf1f55@84.201.172.12:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=travel.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+vless://41a3890c-ce02-4b53-b355-98c41a7b11a6@51.250.6.105:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+vless://d0722d01-7ee8-07d0-85e1-d590ad0e60d3@109.120.188.145:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
