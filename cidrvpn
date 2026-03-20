@@ -1,9 +1,12 @@
 #hide-settings: 1
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
-vless://6f6445da-a752-07d0-8ae1-1eb1110ddcf4@109.120.189.220:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-vless://6f6445da-a752-07d0-8ae1-1eb1110ddcf4@5.188.140.109:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-vless://b53877d7-5202-07d0-9ab5-addafffa2add@5.188.140.109:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
-vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@51.250.32.194:465?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://f5d45379-e95f-4d0e-88fd-f79f4c39fadc@84.201.166.166:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
-vless://6f6445da-a752-01f4-8ae1-1eb1110ddcf4@5.188.140.109:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+vless://f8c5b018-f51a-4137-be8a-50a451630589@lt08.tcpdoor.net:7443?type=grpc&mode=gun&serviceName=grpc&security=reality&fp=firefox&sni=www.vk.com&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=7c59eb19#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+
+vless://754dfc91-8b6c-07d0-905f-47480387e8a4@109.120.191.199:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
+
+vless://0e9b3f30-41d1-4675-9083-39975112ef8f@185.86.146.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+
+vless://a487adab-0644-4f80-9643-d3036b9f17c6@51.250.44.42:53122?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=xapi.ozon.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+
+vless://a22f6494-f371-01f4-bad0-8df9594b8e45@russ.minerscrafters.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
