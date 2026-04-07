@@ -1,6 +1,7 @@
 #hide-settings: 1
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
+#announce: Внимание! Всегда проверяйте каждый конфиг, часто пишет н/д на рабочих серверах.
 vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@89.208.228.76:443?type=grpc&mode=gun&serviceName=UpdateService&security=reality&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20VK
 
 vless://6f095d1a-9f4b-4c9e-bb89-11441759e7dd@146.185.240.172:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%ADSwitzerland%20%5B*CIDR%5D%20VK
