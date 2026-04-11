@@ -2,9 +2,14 @@
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
 #announce: Внимание! Всегда проверяйте каждый конфиг, часто пишет н/д на рабочих серверах.
-vless://49d0c0e1-9d25-42f5-af08-3f424592070a@51.250.74.138:443?encryption=none&security=reality&type=grpc&sni=ads.x5.ru&fp=chrome&pbk=dFr7n6XOTuRkgGzYmhTiQzKTd7lwJMODM5_R9Hq_mVI&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
-vless://e02d6b29-519c-41b9-9488-8396c77dd842@212.233.97.139:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20VK
-vless://d82a7172-50af-41f0-965e-d0858bbddabc@212.233.97.139:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%87%AD%F0%9F%87%BAHungary%20%5B*CIDR%5D%20VK
-vless://35ead117-fe4a-4288-89af-18bd147c9f7e@158.160.251.102:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
-vless://03f69016-9347-410d-b142-cb071d042364@51.250.126.221:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&sid=8f64bb95#%F0%9F%87%AB%F0%9F%87%B7France%20%5B*CIDR%5D%20YA
-vless://96b1778a-b1e6-43b3-9021-9344ec192398@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%87%B8%F0%9F%87%AASweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?type=grpc&mode=gun&serviceName=grpc&security=tls&sni=nice.ducks.tel&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAGermany%20%5B*CIDR%5D%20YA
+
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?type=grpc&mode=gun&serviceName=grpc&security=tls&sni=nice.ducks.tel&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AAGermany%20%5B*CIDR%5D%20YA
+
+vless://9a976414-8f8a-4806-9969-1bdbe3a20002@158.160.254.48:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20YA
+
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@158.160.248.155:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
+
+vless://17f47d21-1837-4287-b6e7-e537274c41e4@158.160.231.132:443?type=grpc&mode=multi&serviceName=&security=reality&fp=chrome&sni=static-mon.yandex.net&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&sid=97f74fa3a71adccc#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
+
+vless://31d8d734-6225-467f-ac86-6766f3f7c398@lte.krevetkavpn6666.ru:1443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.sony.com&pbk=MVRNPCHMN7_U6X2c6AbxG52t_PFOaU09H3wdcDjqGUY&sid=833fda1e&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%5B*CIDR%5D%20YA
