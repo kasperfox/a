@@ -2,30 +2,4 @@
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
 #announce: Внимание! Всегда проверяйте каждый конфиг, часто пишет н/д на рабочих серверах.
-vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=eh.vk.com&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&sid=649af94174f4&spx=/#%F0%9F%87%AB%F0%9F%87%AEFinland%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
-
-vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=megafon.ru&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&sid=649af94174f4&spx=/#%F0%9F%87%AB%F0%9F%87%AEFinland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20YA
-
-vless://52ca0d43-e64a-4127-a972-a15623886a06@msaab.whit3.net:4443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd#%F0%9F%87%AB%F0%9F%87%B7France%20%5B*CIDR%5D%20YA
-
-vless://cce17512-a461-4f7d-bfba-bd93f50cd48b@51.250.104.150:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=KVNSL-jDgRPijB1QYnn6TY4oRwQMozEJIg8KboM9Jj8&sid=078974af#%F0%9F%87%AB%F0%9F%87%B7France%20%5B*CIDR%5D%20YA
-
-vless://cce17512-a461-4f7d-bfba-bd93f50cd48b@51.250.21.230:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=agWt1tBSIrdo3EZkKcSrdZp5J94lrXqNERp4gFPPXB8&sid=154f5d5f#%F0%9F%87%AB%F0%9F%87%B7France%20%5B*CIDR%5D%20YA
-
-vless://cce17512-a461-4f7d-bfba-bd93f50cd48b@84.201.162.211:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=_8EpXqaUr9fxaQBmY7PmPTasWzhvcnMd31MVGX6hjX4&sid=d5db4077#%F0%9F%87%AB%F0%9F%87%B7France%20%5B*CIDR%5D%20YA
-
-vless://34da67df-3917-4ad0-b2ac-e9790b1e2d0e@51.250.44.216:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk&sid=9dfefbaf7319b348#%F0%9F%87%A9%F0%9F%87%AAGermany%20%5B*CIDR%5D%20YA
-
-vless://b5ae3706-d5fd-4651-98c0-e9ffea2b7109@51.250.44.216:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk&sid=9dfefbaf7319b348#%F0%9F%87%A9%F0%9F%87%AAGermany%20%5B*CIDR%5D%20YA
-
-vless://a7bd637c-299a-4cef-956f-1fac77aca276@51.250.44.216:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=20kWWWp6YwJujT1penAu1FD_uvm6dcJoj2w-ZZ-JVSk&sid=9dfefbaf7319b348#%F0%9F%87%A9%F0%9F%87%AAGermany%20%5B*CIDR%5D%20YA
-
-vless://240f696d-324b-4f1f-9547-ddd29e26121d@51.250.39.67:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20YA
-
-vless://52ca0d43-e64a-4127-a972-a15623886a06@msaab.whit3.net:3443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
-
-vless://82b6bed3-a367-496a-ba65-444fa31d0250@84.201.142.177:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
-
-vless://aa2bb664-5f73-4df2-80fe-73c80fa9c4a3@158.160.35.186:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&spx=/#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA
-
-vless://78421ca0-2830-42b0-b763-050a22fa80ca@84.201.137.212:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20YA
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
