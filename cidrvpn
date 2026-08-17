@@ -2,7 +2,5 @@
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
 #announce: Внимание! Всегда проверяйте каждый конфиг, часто пишет н/д на рабочих серверах.
-vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv17.strettenvpn.com:443?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv17.strettenvpn.com:443?type=tcp&security=none&encryption=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv25.strettenvpn.com:443?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv25.strettenvpn.com:443?type=tcp&security=none&encryption=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?security=tls&encryption=none&sni=disagreedebut.net&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20Beeline
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?security=tls&encryption=none&sni=disagreedebut.net&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20Beeline
