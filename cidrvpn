@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #profile-title: Мобильная Cвязь
 #announce: Внимание! Всегда проверяйте каждый конфиг, часто пишет н/д на рабочих серверах.
-vless://b5a79dec-1bbe-431b-a144-d6660bf4d106@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
-vless://b5a79dec-1bbe-431b-a144-d6660bf4d106@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
-vless://b5a79dec-1bbe-431b-a144-d6660bf4d106@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
+vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
+vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
+vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
+vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
+vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20VK
